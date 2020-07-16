@@ -1,0 +1,1 @@
+"use strict";window.onload=function(){var e=document.getElementById("gender-description");document.getElementById("dropdown").onchange=function(){"self-describe"==this.value?e.style.display="block":(e.style.display="none",e.value="")}};
